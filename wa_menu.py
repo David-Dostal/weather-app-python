@@ -38,4 +38,4 @@ def main_menu_button():
 
 def show_copyright():
     with use_scope('C'):
-        put_text('Copyright 2022 by xglas & xdostal8 (PEF Mendelu)')
+        put_text('Copyright 2022 by xdostal8 (PEF Mendelu)')
